@@ -11,8 +11,11 @@ python 3.13
 4. run python.exe xxx.py
 
 5. for run flask: (***app is app.py)
+
 python -m flask --app app run
+
 debug >>> python -m flask --app app run --debug
+
 example >>> python -m flask --app cBot_demo run --debug
 
 6. test server
